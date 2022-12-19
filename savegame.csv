@@ -1,0 +1,16 @@
+player1,player2,winner,draw
+yining,roim,yining,FALSE
+yining,Computer,Computer,FALSE
+yining,roim,yining,FALSE
+yining,Computer,Computer,FALSE
+yining,Computer,Computer,FALSE
+lyn,Computer,Computer,FALSE
+lyn,yining,,TRUE
+lyn,Computer,,TRUE
+lyn,Computer,Computer,FALSE
+lyn,Computer,,TRUEbowen,yining,yining,False
+bowen,yining,bowen,False
+bowen,yining,bowen,False
+bowen,yining,yining,False
+bowen,yining,yining,False
+lyn,bowen,bowen,False

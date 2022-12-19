@@ -1,0 +1,31 @@
+body {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    box-shadow: black 0 0 15px;
+}
+h1 {
+    color: rgb(27, 127, 132);
+}
+h2 {
+    color: rgb(83, 191, 193);
+}
+#play-area {
+    border: black solid 2px;
+    overflow: hidden;
+}
+.square {
+    width: 5em;
+    height: 5em;
+    float: left;
+    border: black solid 1.5px;
+    background-color: white;
+    cursor: pointer;
+}
+.square:hover {
+    background-color: rgb(87, 207, 191);
+    color: white;
+}
